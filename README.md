@@ -17,7 +17,7 @@
  <br>
  
 <h2>
-&#x1f4c8; Social Media:
+🌐 Social Media:
 </h2>
 <br>
 
@@ -30,7 +30,7 @@
 <br>
 <br>
 <h3>
-&#x1f4c8; Currently working with:
+🔧 Currently working with:
 </h3>
 <br>
 <a href="https://www.python.org/" title="Python"><img src="Icons/python.png" /></a>

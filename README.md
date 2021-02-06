@@ -10,8 +10,8 @@
 
 **Social Media:**
 
-[![GitHub](icons/github.png)](https://github.com/Fatihcil16)
-[![GitLab](icons/gitlab.png)](https://gitlab.com/Fatihcil16)
-[![YouTube](icons/youtube.png)](https://www.youtube.com/channel/UCIUsA_RC9wk1IMp1nX03qUQ)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/fatih-%C3%A7il/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/fatihcil.2001/)
+[![GitHub](Icons/github.png)](https://github.com/Fatihcil16)
+[![GitLab](Icons/gitlab.png)](https://gitlab.com/Fatihcil16)
+[![YouTube](Icons/youtube.png)](https://www.youtube.com/channel/UCIUsA_RC9wk1IMp1nX03qUQ)
+[![LinkedIn](Icons/linkedin.png)](https://www.linkedin.com/in/fatih-%C3%A7il/)
+[![Instagram](Icons/instagram.png)](https://www.instagram.com/fatihcil.2001/)

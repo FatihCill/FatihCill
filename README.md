@@ -26,8 +26,12 @@
 [![YouTube](Icons/youtube.png)](https://www.youtube.com/channel/UCIUsA_RC9wk1IMp1nX03qUQ)
 [![LinkedIn](Icons/linkedin.png)](https://www.linkedin.com/in/fatih-%C3%A7il/)
 [![Instagram](Icons/instagram.png)](https://www.instagram.com/fatihcil.2001/)
-
-**Currently working with:**
+<br>
+<br>
+<h3>
+&#x1f4c8; Currently working with:
+</h3>
+<br>
 <a href="https://www.python.org/" title="Python"><img src="Icons/python.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="Icons/javascript.png" /></a>
 <a href="https://www.java.com/tr/" title="Java"><img src="Icons/java.png" /></a>

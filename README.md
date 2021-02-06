@@ -1,10 +1,11 @@
 
 <h1 align="center">
-  <img src="https://github.com/Fatihcil16/Fatihcil16/blob/main/Images/Banner.png" alt="Fatih Çil" />
+  <img href="https://www.fatihcil.com" src="https://github.com/Fatihcil16/Fatihcil16/blob/main/Images/Banner.png" alt="Fatih Çil" />
+</h1>
+<br><h1>
+&#x1f4c8; GitHub Stats 
 </h1>
 <br>
-## &#x1f4c8; GitHub Stats ##
-
 <a href="https://github.com/Fatihcil16">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatihcil16&hide=c%2B%2B,c,html&title_color=6aa6f8&theme=tokyonight&bg_color=0e1116" alt="Fatih's GitHub Stats" />
 </a>
@@ -14,7 +15,10 @@
  <br> 
  <br>
  
-**Social Media:**
+<h2>
+&#x1f4c8; Social Media:
+</h2>
+<br>
 
 [![GitHub](Icons/github.png)](https://github.com/Fatihcil16)
 [![GitLab](Icons/gitlab.png)](https://gitlab.com/Fatihcil16)

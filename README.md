@@ -24,15 +24,14 @@
 [![Instagram](Icons/instagram.png)](https://www.instagram.com/fatihcil.2001/)
 
 **Currently working with:**
-
-<a href="https://getcomposer.org/" title="Composer"><img src="Icons/composer.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="Icons/python.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="Icons/javascript.png" /></a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C#"><img src="Icons/csharp.png" /></a>
+<a href="https://dotnet.microsoft.com/" title="DotNet"><img src="Icons/dotnet.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="Icons/vscode.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="Icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="Icons/github.png" /></a>
 <a href="https://gitlab.com/" title="GitLab"><img src="Icons/gitlab.png" /></a>
 <a title="Sql"><img src="Icons/sql.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="Icons/mysql.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="Icons/vscode.png" /></a>
 <a href="https://wordpress.com/" title="Wordpress"><img src="Icons/wordpress.png" /></a>

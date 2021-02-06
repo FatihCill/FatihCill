@@ -17,7 +17,7 @@
  <br>
  
 <h2>
-🌐 Social Media:
+ Social Media:
 </h2>
 <br>
 

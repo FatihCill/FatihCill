@@ -1,6 +1,7 @@
 
-<h1 align="center">
-  <img href="https://www.fatihcil.com" src="https://github.com/Fatihcil16/Fatihcil16/blob/main/Images/Banner.png" alt="Fatih Çil" />
+<h1 align="center"> <a  href="https://www.fatihcil.com">
+  <img src="https://github.com/Fatihcil16/Fatihcil16/blob/main/Images/Banner.png" alt="Fatih Çil" />
+  </a>
 </h1>
 <br><h1>
 &#x1f4c8; GitHub Stats 

@@ -42,6 +42,7 @@
 <a href="https://git-scm.com/" title="Git"><img src="Icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="Icons/github.png" /></a>
 <a href="https://gitlab.com/" title="GitLab"><img src="Icons/gitlab.png" /></a>
-<a title="Sql"><img src="Icons/sql.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="Icons/mysql.png" /></a>
 <a href="https://wordpress.com/" title="Wordpress"><img src="Icons/wordpress.png" /></a>
+<a title="Sql"><img src="Icons/sql.png"/></a>
+

@@ -26,9 +26,11 @@
 **Currently working with:**
 <a href="https://www.python.org/" title="Python"><img src="Icons/python.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="Icons/javascript.png" /></a>
+<a href="https://www.java.com/tr/" title="Java"><img src="Icons/java.png" /></a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C#"><img src="Icons/csharp.png" /></a>
 <a href="https://dotnet.microsoft.com/" title="DotNet"><img src="Icons/dotnet.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="Icons/vscode.png" /></a>
+<a href="https://unity.com/" title="Unity"><img src="Icons/unity.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="Icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="Icons/github.png" /></a>
 <a href="https://gitlab.com/" title="GitLab"><img src="Icons/gitlab.png" /></a>

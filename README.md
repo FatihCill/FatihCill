@@ -36,6 +36,7 @@
 <a href="https://www.cplusplus.com/" title="C++"><img src="Icons/cpp.png" /></a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C#"><img src="Icons/csharp.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="Icons/python.png" /></a>
+<a href="https://www.java.com" title="Java"><img src="Icons/java.png" /></a>
 <a href="https://www.opengl.org/" title="Opengl"><img src="Icons/opengl.png" /></a>
 <a href="https://www.unrealengine.com/en-US/" title="Unreal Engine"><img src="Icons/unreal.png" /></a>
 <a href="https://unity.com/" title="Unity"><img src="Icons/unity.png" /></a>

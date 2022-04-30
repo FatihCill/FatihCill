@@ -21,7 +21,7 @@
  Social Media:
 </h2>
 <br>
-[![GitHub](Icons/github.png)](https://github.com/Fatihcil16)
+[![GitHub](Icons/github.png)]
 [![GitLab](Icons/gitlab.png)](https://gitlab.com/Fatihcil16)
 [![Hackster.io](Icons/Hackster.png)](https://www.hackster.io/fatih-cil/)
 [![YouTube](Icons/youtube.png)](https://www.youtube.com/channel/UCIUsA_RC9wk1IMp1nX03qUQ)

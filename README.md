@@ -27,6 +27,7 @@
 [![YouTube](Icons/youtube.png)](https://www.youtube.com/channel/UCIUsA_RC9wk1IMp1nX03qUQ)
 [![LinkedIn](Icons/linkedin.png)](https://www.linkedin.com/in/fatih-%C3%A7il/)
 [![Instagram](Icons/instagram.png)](https://www.instagram.com/fatihcil.2001/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fatihcil16)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <br>
 <h3>

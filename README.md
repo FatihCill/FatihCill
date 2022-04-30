@@ -12,8 +12,8 @@
 </a>
 <a href="https://github.com/Fatihcil16">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fatihcil16&show_icons=true&theme=tokyonight&line_height=27&bg_color=0e1116" alt="Fatih's GitHub Stats" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fatihcil16)](https://github.com/ryo-ma/github-profile-trophy)
 </a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fatihcil16)](https://github.com/ryo-ma/github-profile-trophy)
  <br> 
  <br>
  

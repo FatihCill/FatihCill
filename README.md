@@ -12,7 +12,7 @@
 </a>
 <a href="https://github.com/Fatihcil16">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fatihcil16&show_icons=true&theme=tokyonight&line_height=27&bg_color=0e1116" alt="Fatih's GitHub Stats" />
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fatihcil16)](https://github.com/ryo-ma/github-profile-trophy)
 </a>
  <br> 
  <br>
@@ -27,7 +27,6 @@
 [![YouTube](Icons/youtube.png)](https://www.youtube.com/channel/UCIUsA_RC9wk1IMp1nX03qUQ)
 [![LinkedIn](Icons/linkedin.png)](https://www.linkedin.com/in/fatih-%C3%A7il/)
 [![Instagram](Icons/instagram.png)](https://www.instagram.com/fatihcil.2001/)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fatihcil16)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <br>
 <h3>

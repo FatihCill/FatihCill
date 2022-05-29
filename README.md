@@ -26,7 +26,7 @@
 
 <h3> 🌐 &nbsp;Social Media</h3>
 
-[![GitHub](Icons/github.png)](https://github.com/Fatihcil16)
+[![GitHub](Icons/github.png)](https://github.com/Fatihcill)
 [![Hackster.io](Icons/Hackster.png)](https://www.hackster.io/fatih-cil/)
 [![YouTube](Icons/youtube.png)](https://www.youtube.com/channel/UCIUsA_RC9wk1IMp1nX03qUQ)
 [![LinkedIn](Icons/linkedin.png)](https://www.linkedin.com/in/fatih-%C3%A7il/)
@@ -37,10 +37,10 @@
 </h3>
 <br>
 <p align="center">
-<a href="https://github.com/Fatihcil16"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fatihcil16&show_icons=true&theme=tokyonight&bg_color=0e1116" /><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fatihcil16&theme=tokyonight&layout=compact&bg_color=0e1116" />
+<a href="https://github.com/Fatihcill"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fatihcill&show_icons=true&theme=tokyonight&bg_color=0e1116" /><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fatihcill&theme=tokyonight&layout=compact&bg_color=0e1116" />
 </p>
 <p align="center">
     <a alt="Penguinlay's GitHub Profile Trophies" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
-        <img src="https://github-profile-trophy.vercel.app/?username=Fatihcil16&theme=darkhub&column=-1">
+        <img src="https://github-profile-trophy.vercel.app/?username=Fatihcill&theme=darkhub&column=-1">
     </a>
 </p>

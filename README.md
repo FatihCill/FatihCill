@@ -1,8 +1,8 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 👍 &nbsp; Exploring new technologies and developing software solutions.
-- ⌨️  &nbsp; Interested in low-level programming and optimizing.
+- 👍 &nbsp; Exploring new technologies and developing apps.
+- ⌨️  &nbsp; Interested in 2d game programming and developing.
 - 🎓 &nbsp; Studying at ![42](https://img.shields.io/badge/-Ecole-111111?style=flat&logo=42)
 - 🌐 &nbsp; My Blog : www.fatihcil.com
 
@@ -36,11 +36,11 @@
 &#x1f4c8; GitHub Stats 
 </h3>
 <br>
-<a href="https://github.com/Fatihcil16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatihcil16&hide=html&title_color=6aa6f8&theme=tokyonight&bg_color=0e1116" alt="Fatih's GitHub Stats" />
-</a>
-<a href="https://github.com/Fatihcil16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fatihcil16&show_icons=true&theme=tokyonight&line_height=27&bg_color=0e1116" alt="Fatih's GitHub Stats" />
-</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fatihcil16&theme=darkhub&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+<a href="https://github.com/Fatihcil16"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fatihcil16&show_icons=true&theme=tokyonight&bg_color=0e1116" /><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fatihcil16&theme=tokyonight&layout=compact&bg_color=0e1116" />
+</p>
+<p align="center">
+    <a alt="Penguinlay's GitHub Profile Trophies" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
+        <img src="https://github-profile-trophy.vercel.app/?username=Fatihcil16&theme=darkhub&column=-1">
+    </a>
+</p>

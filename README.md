@@ -22,6 +22,7 @@
   ![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-111111?style=flat&logo=github)
   ![Linux](https://img.shields.io/badge/-Linux-111111?style=flat&logo=linux&logoColor=ffffff)
+  ![Docker](https://img.shields.io/badge/-Docker-111111?style=flat&logo=docker&logoColor=ffffff)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-111111?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <h3> 🌐 &nbsp;Social Media</h3>

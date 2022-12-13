@@ -13,7 +13,7 @@
   ![C](https://img.shields.io/badge/-C-111111?style=flat&logo=c)
   ![CPP](https://img.shields.io/badge/-C++-111111?style=flat&logo=cplusplus)
   ![Python](https://img.shields.io/badge/-Python-111111?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-111111?style=flat&logo=java)
+  ![C#](https://img.shields.io/badge/-CSharp-111111?style=flat&logo=C%20Sharp)
   ![Unity](https://img.shields.io/badge/-Unity-111111?style=flat&logo=unity)
   ![Unreal](https://img.shields.io/badge/-UnrealEngine-111111?style=flat&logo=unrealengine)
   ![Arduino](https://img.shields.io/badge/-Arduino-111111?style=flat&logo=arduino)
